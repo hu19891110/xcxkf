@@ -4,14 +4,14 @@
 
 ### 微信公众平台• 小程序开发简易手册
 
-http://xcxkf.ihese.com
+http://xcx.ihese.com
 
-介绍 http://xcxkf.ihese.com/introduction
+介绍 http://xcx.ihese.com/introduction
 
-设计 http://xcxkf.ihese.com/design
+设计 http://xcx.ihese.com/design
 
-运营 http://xcxkf.ihese.com/product
+运营 http://xcx.ihese.com/product
 
-开发 http://xcxkf.ihese.com/api
+开发 http://xcx.ihese.com/api
 
 以上文档收集于网络，只为开发者更方便，如果有侵犯，请联系删除。
